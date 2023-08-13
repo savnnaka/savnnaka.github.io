@@ -1,11 +1,15 @@
 body {
     font-family: 'Menlo', monospace;
     background-color: #171818;
-    color: #a8a7a3;
+    color: #E8D6CB;
     /* for centering */
     max-width: 72ch;
     margin: auto;
     padding: 1ch;
     padding-top: 0px;
     margin-bottom: 4em;
+}
+
+a {
+    color: #B58DB6;
 }
